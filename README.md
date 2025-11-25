@@ -2,10 +2,13 @@
 
 This repository contains the Arduino code and documentation for the Smart Robot Car project, focusing on fundamental electronic and programming concepts realized using the **Arduino Uno** platform.
 
-**Project Date:** December 2020
-**Student:** Euluna Gotami
-**Student ID:** 20113429
-**Course:** Electrical and Electronic Engineering
+| Metadata             | Detail                                |
+| :------------------- | :------------------------------------ |
+| **Project Platform** | Arduino UNO                       |
+| **Project Date**     | December 2020 (Semester 1 Project)       |
+| **Student**          | Euluna Gotami                         |
+| **Student ID**       | 20113429                              |
+| **Course**           | Electrical and Electronic Engineering |
 
 ---
 
